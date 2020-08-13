@@ -1,7 +1,7 @@
 {
   "name": "Suzychat",
   "version": "1.0.0",
-  "description": "An unconventional workplace chat app among colleagues.",
+  "description": "An unconventional workplace chat app among colleagues. with nodejs, and socketio",
   "main": "server.js",
   "scripts": {
     "start": "node server",
